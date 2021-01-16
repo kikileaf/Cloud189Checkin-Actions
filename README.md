@@ -1,10 +1,5 @@
 # Cloud189Checkin  
-forked from peng4740/Cloud189Checkin-Actions  
-天翼云盘每天签到1次，抽奖2次  
 
-登录看的以下项目：
-> [Cloud189](https://github.com/Dawnnnnnn/Cloud189)
-> [cloud189](https://github.com/Aruelius/cloud189)
 
 # Github Actions说明
 ## 一、Fork此仓库
